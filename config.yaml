@@ -1,4 +1,4 @@
-baseURL: './'
+baseURL: 'https://kushalhomeopathy.netlify.app/'
 languageCode: 'en-us'
 title: 'Kushal Homeopathy'
 paginate: 6
